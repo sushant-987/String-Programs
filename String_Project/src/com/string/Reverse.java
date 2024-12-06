@@ -1,6 +1,6 @@
 package com.string;
 
-//String Reverse program
+//String Reverse program with logic
 import java.util.Scanner;
 
 public class Reverse {
